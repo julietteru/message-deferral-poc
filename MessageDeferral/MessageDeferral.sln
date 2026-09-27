@@ -4,7 +4,7 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.API", "Mess
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Entities", "MessageDeferral.Entities\MessageDeferral.Entities.csproj", "{18E8C03A-C4D8-476F-9A8B-819A2A6B2167}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Persistance", "MessageDeferral.Persistance\MessageDeferral.Persistance.csproj", "{D9D0CBA8-F052-4C99-8E66-088BA6F75814}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Persistence", "MessageDeferral.Persistence\MessageDeferral.Persistence.csproj", "{D9D0CBA8-F052-4C99-8E66-088BA6F75814}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Services", "MessageDeferral.Services\MessageDeferral.Services.csproj", "{2DD64FB2-7D8D-4BF8-A23B-D0CEB62CCE67}"
 EndProject
