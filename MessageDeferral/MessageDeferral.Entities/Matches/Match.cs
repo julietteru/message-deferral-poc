@@ -1,5 +1,5 @@
 using MessageDeferral.Entities.Teams;
-using MessageDeferral.Entities.Competition;
+using MessageDeferral.Entities.Competitions;
 
 namespace MessageDeferral.Entities.Matches;
 

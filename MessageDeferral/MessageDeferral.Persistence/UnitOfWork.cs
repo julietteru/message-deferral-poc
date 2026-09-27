@@ -1,8 +1,8 @@
-using MessageDeferral.Entities.Competition;
+using MessageDeferral.Entities.Competitions;
 using MessageDeferral.Entities.Matches;
 using MessageDeferral.Entities.Teams;
 using MessageDeferral.Persistence.Repositories;
-using Group = MessageDeferral.Entities.Competition.Group;
+using Group = MessageDeferral.Entities.Competitions.Group;
 using Match = System.Text.RegularExpressions.Match;
 
 namespace MessageDeferral.Persistence;

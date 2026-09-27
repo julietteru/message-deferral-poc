@@ -1,6 +1,6 @@
 using MessageDeferral.Entities.Enums;
 
-namespace MessageDeferral.Entities.Competition;
+namespace MessageDeferral.Entities.Competitions;
 
 public class Competition
 {

@@ -1,4 +1,4 @@
-﻿namespace MessageDeferral.Services.Test.Competition;
+﻿namespace MessageDeferral.Services.Test.Competitions;
 
 public class CompetitionServiceTests
 {

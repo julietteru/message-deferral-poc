@@ -1,8 +1,8 @@
-﻿using MessageDeferral.Entities.Competition;
+﻿using MessageDeferral.Entities.Competitions;
 using MessageDeferral.Entities.Matches;
 using MessageDeferral.Entities.Teams;
 using Microsoft.EntityFrameworkCore;
-using Group = MessageDeferral.Entities.Competition.Group;
+using Group = MessageDeferral.Entities.Competitions.Group;
 
 namespace MessageDeferral.Persistence;
 

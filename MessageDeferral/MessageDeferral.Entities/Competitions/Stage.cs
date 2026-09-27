@@ -1,4 +1,4 @@
-namespace MessageDeferral.Entities.Competition;
+namespace MessageDeferral.Entities.Competitions;
 
 public class Stage
 {

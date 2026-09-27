@@ -1,7 +1,7 @@
 using MessageDeferral.Entities.Teams;
 using MessageDeferral.Entities.Matches;
 
-namespace MessageDeferral.Entities.Competition;
+namespace MessageDeferral.Entities.Competitions;
 
 public class Group
 {
