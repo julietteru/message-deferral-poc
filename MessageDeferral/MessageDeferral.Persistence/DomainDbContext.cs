@@ -6,7 +6,7 @@ using Group = MessageDeferral.Entities.Competition.Group;
 
 namespace MessageDeferral.Persistence;
 
-public class DomainDbContext : DbContext
+public class DomainDbContext(DbContextOptions options) : DbContext(options)
 {
     public virtual DbSet<Competition> Competitions { get; set; }
     public virtual DbSet<Stage> Stages { get; set; }
