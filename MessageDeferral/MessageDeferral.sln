@@ -8,6 +8,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Persistence
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Services", "MessageDeferral.Services\MessageDeferral.Services.csproj", "{2DD64FB2-7D8D-4BF8-A23B-D0CEB62CCE67}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MessageDeferral.Services.Test", "tests\MessageDeferral.Services.Test\MessageDeferral.Services.Test.csproj", "{DEC80220-A4DC-48B7-8AE0-05E9A9E3F4D8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -30,5 +32,9 @@ Global
 		{2DD64FB2-7D8D-4BF8-A23B-D0CEB62CCE67}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{2DD64FB2-7D8D-4BF8-A23B-D0CEB62CCE67}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{2DD64FB2-7D8D-4BF8-A23B-D0CEB62CCE67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DEC80220-A4DC-48B7-8AE0-05E9A9E3F4D8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEC80220-A4DC-48B7-8AE0-05E9A9E3F4D8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEC80220-A4DC-48B7-8AE0-05E9A9E3F4D8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEC80220-A4DC-48B7-8AE0-05E9A9E3F4D8}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
